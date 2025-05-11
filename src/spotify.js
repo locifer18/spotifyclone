@@ -1,5 +1,5 @@
 export const authEndpoint = "https://accounts.spotify.com/authorize";
-const redirectUri = "http://192.168.1.66:3000/callback";
+const redirectUri = "https://spotifyclone-nine-lemon.vercel.app/";
 const clientId = '1ede66ffacf04d33b4ba664924398a04';
 
 const scopes = [
