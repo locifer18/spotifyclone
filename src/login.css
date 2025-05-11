@@ -1,0 +1,12 @@
+.login{
+    background-color: black;
+    place-items: center;
+}
+.login .login-btn{
+    padding: 20px;  
+    background-color: #1db954;
+    font-weight: 800;
+    color: white;
+    border-radius: 99px;
+    text-decoration: none;
+}
